@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.env
+*.env
+
+# Cache files
+.cache/
+*.db
+*.sqlite
+
+# Data
+data/index/
+data/processed/*.csv
+data/raw/
+
+# Streamlit stuff
+.streamlit/
+
+# MCP logs
+logs/
+*.log
+
+# macOS
+.DS_Store

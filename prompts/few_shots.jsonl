@@ -1,0 +1,1 @@
+{"input":"eco-friendly stainless cleaner under $15","plan":{"sources":["rag.search"],"filters":{"category":"Household Cleaning","price":{"$lte":15}},"fields":["title","brand","ingredients","price","rating"],"comparison":["rating desc","price asc"]}}

@@ -1,0 +1,16 @@
+fastapi==0.115.5
+uvicorn==0.32.1
+httpx==0.27.2
+pydantic==2.9.2
+python-dotenv==1.0.1
+streamlit==1.40.1
+chromadb==0.5.11
+sentence-transformers==3.2.1
+rapidfuzz==3.9.7
+pandas==2.2.2
+langgraph==0.2.37
+openai==1.54.3
+# Optional (ASR)
+openai-whisper==20240930
+# For reading parquet (optional)
+pyarrow==17.0.0
