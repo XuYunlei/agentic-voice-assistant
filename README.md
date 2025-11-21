@@ -245,3 +245,20 @@ Open browser:
 ```
 http://localhost:8501
 ```
+
+---
+
+# 🔥 Next: Phase 2 Enhancements
+
+Coming next:
+
+* Tool Normalization Layer
+* Conflict resolution engine
+* Web–RAG merge logic
+* Better product ranking
+* Metadata extraction from web
+* Price-per-oz ranking logic
+* Safety + chemical constraints
+* Critic rewrite for chain integrity
+* LLM fallback for missing data
+* Scoring systems for final answers
